@@ -5,8 +5,8 @@ body {
   background-color: ;
   display: flex;
   justify-content: corner;
-  /* align-items: ;
-  height: 100vh; */
+  
+  height: 100vh;
   margin: 0;
 }
 
